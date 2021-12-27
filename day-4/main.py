@@ -31,6 +31,7 @@ game_images = [rock, paper, scissors]
 user_choice = int(input("Apa yang mau kamu pilih? Input 0 Untuk Batu, 1 Untuk Kertas dan 2 Untuk Gunting.\n"))
 if user_choice >= 3 or user_choice < 0: 
     print("Kamu menginput angka yang salah, kamu kalah!") 
+    
 else:
     print(game_images[user_choice])
 
