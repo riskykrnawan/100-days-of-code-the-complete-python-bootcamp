@@ -7,6 +7,7 @@ bill = float(input("Berapa total bill nya? $ "))
 tip = int(input("Berapa banyak tip yang mau anda beri? 10, 12, atau 15 (Dalam Persen)? "))
 people = int(input("Berapa banyak orang yang mau split bill?"))
 
+
 # persenkan dulu tipnya
 tip_as_percent = tip / 100
 
@@ -17,6 +18,7 @@ total_bill = bill + total_tip_amount
 
 # bagi total bayar dengan jumlah orang untuk tau berapa banyak yang perlu dibayar tiap orang
 bill_per_person = total_bill / people
+
 
 # karna dimintanya 2 angka dibelakang koma maka kita bisa menggunakan round
 final_amount = round(bill_per_person, 2)
