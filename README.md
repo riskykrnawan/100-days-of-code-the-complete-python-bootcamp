@@ -3,5 +3,6 @@
  
 Menyelesaikan 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 
-1. Day 1: Band Name Generator.
-2. Day 2: Tip Calculator / Split Bill Calculator
+- Day 1: Band Name Generator.
+- Day 2: Tip Calculator / Split Bill Calculator.
+- Day 3: Treasure Island.
