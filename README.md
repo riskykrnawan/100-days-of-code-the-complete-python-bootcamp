@@ -8,3 +8,4 @@ Menyelesaikan 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 - Day 3: Treasure Island.
 - Day 4: Rock/Paper/Scissor
 - Day 5: Password Generator
+- Day 6: Escaping the Maze
